@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\camera.h(54,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\camera.h(71,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\player.h(58,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\player.h(59,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\player.h(60,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\player.h(90,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\Mesh.h(98,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\Mesh.h(99,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\Mesh.h(100,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\Mesh.h(486,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\scene.h(458,1): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\scene.h(881,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\scene.h(881,10): message : consider using '%zd' in the format string
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\main.cpp(233,107): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\main.cpp(233,82): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\main.cpp(263,81): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\scene.h(410): warning C4715: 'scene::PBR_surface': not all control paths return a value
+  Project4.vcxproj -> C:\Users\Nilei Pan\Desktop\CSCI5607\Project4\x64\Debug\Project4.exe

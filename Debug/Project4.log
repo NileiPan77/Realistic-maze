@@ -1,0 +1,2 @@
+﻿  01_hello_SDL.cpp
+C:\Users\Nilei Pan\Desktop\CSCI5607\Project1\01_hello_SDL\01_hello_SDL.cpp(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
